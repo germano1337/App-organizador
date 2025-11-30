@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# App-organizador
 
-# Run and deploy your AI Studio app
+Tarefa Fácil
+Uma aplicação simples e intuitiva para gerenciar tarefas diárias. Desenvolvida como projeto de estudo e aprimoramento técnico.
 
-This contains everything you need to run your app locally.
+Descrição
+O Tarefa Fácil é um aplicativo tipo de Solução, ex: mobile, web Single Page focado na organização pessoal. Ele permite que o usuário crie, visualize, edite e marque tarefas como concluídas, fornecendo uma experiência limpa e direta.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1yNKUNm5O8ESfnQNMJao4Ii9swPS7g6qO
+Este projeto foi criado com o objetivo principal de:
 
-## Run Locally
+[Ponto de Aprendizado 1] Ex: Dominar o gerenciamento de estado global com Redux/Context API.
 
-**Prerequisites:**  Node.js
+[Ponto de Aprendizado 2] Ex: Praticar a integração com APIs RESTful (próprias ou de terceiros).
+
+Tecnologias
+As principais tecnologias e ferramentas utilizadas no desenvolvimento deste projeto incluem:
+
+Front-end: React
+
+Linguagem: Linguagem Principal TypeScript
+
+Estilização:  CSS e HTML
+
+Dados/Armazenamento: Sem armazenamento externo nessa fase de testes
+
+Tela inicial [Teste]
+<img width="1917" height="915" alt="image" src="https://github.com/user-attachments/assets/3829265a-15da-4eac-a69f-5cd3b8ecc80f" />
+Adicionar tarefas [teste]
+<img width="1903" height="911" alt="image" src="https://github.com/user-attachments/assets/a7289d7f-59e4-4cce-a05c-fe68d1bc25d2" />
+Tarefa adicionada [teste]
+<img width="1756" height="905" alt="image" src="https://github.com/user-attachments/assets/410017d8-c32a-45e4-86a3-e1cedccd93d3" />
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
