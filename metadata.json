@@ -1,0 +1,5 @@
+{
+  "name": "TarefaFácil",
+  "description": "Um organizador de tarefas simples e eficiente para estudantes universitários, com suporte a quadros Kanban, temas e filtros de prazo.",
+  "requestFramePermissions": []
+}
