@@ -23,6 +23,8 @@ Estilização:  CSS e HTML
 
 Dados/Armazenamento: Sem armazenamento externo nessa fase de testes
 
+Link do app (Necessário estar conectado a conta da Google): https://ai.studio/apps/drive/1yNKUNm5O8ESfnQNMJao4Ii9swPS7g6qO?fullscreenApplet=true
+
 Tela inicial [Teste]
 <img width="1917" height="915" alt="image" src="https://github.com/user-attachments/assets/3829265a-15da-4eac-a69f-5cd3b8ecc80f" />
 Adicionar tarefas [teste]
